@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FindFish</string>
+    <string-array name="fishtypes">
+        <item>Fresh Water Fish</item>
+        <item>Salt  Water Fish</item>
+    </string-array>
+    <string name="findfish">Find Fish!</string>
+    <string name="fishtypes">FishTypes</string>
+</resources>
